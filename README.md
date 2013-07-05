@@ -1,0 +1,4 @@
+skel
+====
+
+Web application skeleton
