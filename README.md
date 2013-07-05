@@ -1,4 +1,7 @@
 skel
 ====
 
-Web application skeleton
+Web application skeleton.
+
+Includes :
+- Spring MVC.
